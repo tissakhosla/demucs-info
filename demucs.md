@@ -1,6 +1,6 @@
 # How to Use Demucs to Shed
 ## Installation
-### [Setup WSL - Windows]
+### [Setup WSL - Windows](https://github.com/tissakhosla/tissa-docs/blob/main/wsl.md)
 ### Setup Environment - Mac
 1. Open Terminal
 2. `xcode-select --install`
