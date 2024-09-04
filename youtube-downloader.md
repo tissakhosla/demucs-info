@@ -24,7 +24,7 @@
 5. `python3 -m pip install -U pip yt-dlp` to upgrade pip and install
 7. `mkdir youtube` (this is where the separated files will be stored`
 8. `cd youtube` the directory we're in will be where things get stored
-9. `python3 -m yt-dlp -x --audio-format flac '[URL](https://www.youtube.com/watch?v=5KFklS_jug4)'`
+9. `python3 -m yt-dlp -x --audio-format flac 'https://www.youtube.com/watch?v=5KFklS_jug4'`
 
 ## Shedding with The Tracks
 1. In your DAW of choice, insert the separated stems as separate tracks.
