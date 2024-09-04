@@ -10,7 +10,7 @@
  - type a password (you won't see the letters) write it down or save it
 ### Setup Environment - Mac
 1. Open Terminal
-2. FILL THIS IN W JIANNI
+2. 
 ### Create Python VENV
 1. `mkdir envs` I like to keep venvs all in one place
 2. `python3 -m venv envs/demucs`
