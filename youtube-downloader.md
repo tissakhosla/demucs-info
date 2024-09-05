@@ -10,6 +10,9 @@
 7. `brew install ffmpeg`
 
 ### Create Python VENV
+1. `sudo apt-get update`
+2. `sudo apt-get upgrade`
+3. `sudo apt install python3.10-venv`
 1. `mkdir envs` I like to keep venvs all in one place
 2. `python3 -m venv envs/youtube`
 3. `source envs/youtube/bin/activate`
